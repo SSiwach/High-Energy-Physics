@@ -55,7 +55,7 @@ A forward time projection chamber (FTPC) is located near the ends of the detecto
 The STAR detector is used to study a variety of phenomena in high-energy nuclear physics, including the Quark-Gluon Plasma (QGP), a state of matter believed to have existed in the early universe. By colliding heavy ions at high energies, researchers can create conditions similar to those that existed in the first few microseconds of the universe, allowing them to study the properties of the QGP and gain insights into the fundamental nature of matter.
  
  
-#Multiplicity Density
+# Multiplicity Density
 The charged-particle multiplicity density at midrapidity in Pb-Pb collisions is a measure of the number of charged particles produced in the collision per unit of rapidity (a measure of the particle's velocity relative to the speed of light) around the center of the rapidity distribution. The centrality of the collision refers to the degree to which the two colliding nuclei overlap. In general, the charged-particle multiplicity density increases with increasing centrality, meaning that more charged particles are produced in more central collisions.
 One way to study the charged-particle multiplicity density at midrapidity in Pb-Pb collisions is through heavy ion collisions at the Large Hadron Collider (LHC). At the LHC, researchers can measure the charged-particle multiplicity density at midrapidity in different centrality classes by analyzing the particles produced in the collision. This can provide insight into the properties of quark-gluon plasma (QGP), a state of matter thought to have existed in the early universe, which is thought to be produced in these collisions.
 Understanding the centrality dependence of the charged-particle multiplicity density at midrapidity in Pb-Pb collisions can also help researchers better understand the dynamics of the collision itself and the mechanisms driving particle production in these collisions.
@@ -63,12 +63,12 @@ Understanding the centrality dependence of the charged-particle multiplicity den
  
  
  
-#Central Collision
+# Central Collision
 In a central collision, the two colliding nuclei overlap completely, resulting in a high degree of overlap between the constituent protons and neutrons. This leads to a large number of collisions between the individual nucleons, leading to the production of many particles in the collision.
 Central collisions are typically characterized by a high charged-particle multiplicity density at midrapidity, as a large number of collisions leads to the production of many charged particles. These collisions can also lead to the production of high-energy particles, such as jets, which are energetic sprays of particles produced when quarks and gluons within the colliding nuclei interact.
 Central collisions are of particular interest to researchers studying the quark-gluon plasma (QGP), a state of matter thought to have existed in the early universe and which is thought to be produced in these types of collisions. The high energy densities and temperatures reached in central collisions can lead to the production of the QGP, making these collisions an ideal laboratory for studying this state of matter.
  
-#Rapidity
+# Rapidity
 Rapidity is a measure of the velocity of a particle relative to the speed of light. It is defined as the rapidity y of a particle with energy E and momentum p as follows:
 y = 0.5 * ln((E + p) / (E - p))
 Rapidity is related to the particle's momentum and energy through the equation of motion: E^2 = p^2 + m^2, where m is the particle's mass.
